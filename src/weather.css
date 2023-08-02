@@ -1,0 +1,36 @@
+.main{
+    height: 630px;
+    width:1310px;
+    background-image: url(back3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.content{
+   text-align: center;
+   padding: 50px;
+}
+input{
+    font-size: 30px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.1);
+    text-shadow: 2px 3px 4px rgb(216, 160, 209) ;
+    color:rgb(177, 33, 165);
+    border:1px solid rgb(224, 123, 182);
+    box-shadow: 5px 5px 5px rgb(118, 118, 170);
+    border-radius: 10px;
+    outline: none;
+}
+
+button{
+    margin: 10px;
+    font-size: 30px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.1);
+    text-shadow: 2px 2px 4px rgb(233, 99, 215) ;
+    color:rgb(117, 133, 226);
+    border:1px solid rgb(224, 123, 182);
+    box-shadow: 5px 5px 5px rgb(118, 118, 170);
+    border-radius: 10px;
+}

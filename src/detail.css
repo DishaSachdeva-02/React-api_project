@@ -1,0 +1,26 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    height:350px;
+}
+.cards{
+    height:200px;
+    width:200px;
+    
+    font-size: 30px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.1);
+    text-shadow: 2px 3px 4px rgb(220, 111, 230) ;
+    color:rgb(72, 112, 224);
+    border:1px solid rgb(224, 123, 182);
+    box-shadow: 5px 5px 5px rgb(131, 100, 216);
+    border-radius: 10px;
+    outline: none;
+
+}
+p{
+    text-shadow: 2px 3px 4px rgb(214, 84, 226) ;
+    color:rgb(46, 94, 224);
+}
